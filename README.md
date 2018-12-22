@@ -1,3 +1,3 @@
 # BookShop-app
 
-<h3>ASP.NET MVC application</h3>
+<h3>ASP.NET MVC application using MSSQL Server database</h3>
